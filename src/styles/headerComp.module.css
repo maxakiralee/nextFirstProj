@@ -1,0 +1,36 @@
+.container {
+    width: 94vw;
+    height: 90vh;
+    margin: 5vh;
+    background-color: blanchedalmond;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left {
+    background-color: aquamarine;
+
+}
+
+
+
+.right {
+    justify-content: center;
+    align-items: center;
+}
+
+/*.title {
+
+}
+
+.description {
+
+}
+
+.button {
+    
+}
+*/
